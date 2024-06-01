@@ -18,7 +18,9 @@ This Turborepo includes the following packages/apps:
 
 - `docs`: a [Next.js](https://nextjs.org/) app
 - `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
+- `nuxt`: a [Nuxt](https://nuxt.com/) app
+- `storybook-react`: a [Storybook](https://storybook.js.org/) app
+- `@repo/ui-react`: a stub React component library shared by both `web` and `docs` applications
 - `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
 - `hono-worker`: a cloudflare worker that listens to http requests.
