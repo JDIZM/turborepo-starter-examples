@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Button, Card, Code } from "@repo/ui";
+import { Button, Card, Code } from "@repo/ui-react";
 import styles from "./page.module.css";
 
 function Gradient({
